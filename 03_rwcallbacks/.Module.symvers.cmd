@@ -1,0 +1,1 @@
+savedcmd_/home/dev/OS_DD/03_rwcallbacks/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dev/OS_DD/03_rwcallbacks/Module.symvers -T /home/dev/OS_DD/03_rwcallbacks/modules.order -i Module.symvers -e 

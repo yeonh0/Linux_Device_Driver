@@ -1,0 +1,1 @@
+savedcmd_/home/dev/OS_DD/03_rwcallbacks/read_write.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/dev/OS_DD/03_rwcallbacks/read_write.ko /home/dev/OS_DD/03_rwcallbacks/read_write.o /home/dev/OS_DD/03_rwcallbacks/read_write.mod.o;  true
